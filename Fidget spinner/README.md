@@ -1,7 +1,7 @@
-# Snake Game-3 🐍
+# Fidget spinner
 
 
 Thanks,
 [Sudais Coder](https://www.youtube.com/c/SudaisCoder)
 
-![preview](https://github.com/SudaisDeveloper/Games/blob/4d571eca8f64fcea740fd0ebd8a571a59411d566/Snake%20Game-3/preview.jpg)
+![preview](https://github.com/SudaisDeveloper/Python/blob/3239e8ad710c3d9528ac5f2e27746b06f281e956/Fidget%20spinner/preview.gif)
